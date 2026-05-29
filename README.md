@@ -1,3 +1,1 @@
-# Odins-Recipes-practice
-
-# Odins Recipes Practice
+This is my version of the Recipes Project: By Ife
